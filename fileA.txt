@@ -2,3 +2,4 @@ this is file A made on 1.8.2017 a
 this is file A modified the braA branch
 --- log 2.8.2017
 this is file A modified the braA branch
+this is file A modified the braA branch again
